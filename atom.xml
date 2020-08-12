@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FoodArt官方博客</title>
+  
+  <subtitle>FoodArt,Eat Many Food in Minecraft!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-08-12T05:16:00.155Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>Rob_LYK</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dev0.0.1版本现已发布！</title>
+    <link href="/2020/08/12/Dev0-0-1%E7%89%88%E6%9C%AC%E7%8E%B0%E5%B7%B2%E5%8F%91%E5%B8%83%EF%BC%81/"/>
+    <id>/2020/08/12/Dev0-0-1版本现已发布！/</id>
+    <published>2020-08-12T04:40:01.000Z</published>
+    <updated>2020-08-12T05:16:00.155Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;目前，Dev0.0.1版本已经发布，请前往我的GitHub主页进入Dev版本专用仓库体验吧。&lt;/p&gt;
+&lt;p&gt;全新的Mod全新起航，加油！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;FoodArt的第一个Dev版本现已发布&lt;br&gt;以下为更新内容：&lt;br&gt;1、build.grad
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>FoodArt官方博客现已建立！</title>
+    <link href="/2020/08/12/FoodArt%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E7%8E%B0%E5%B7%B2%E5%BB%BA%E7%AB%8B%EF%BC%81/"/>
+    <id>/2020/08/12/FoodArt官方博客现已建立！/</id>
+    <published>2020-08-12T04:40:01.000Z</published>
+    <updated>2020-08-12T05:15:23.310Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;FoodArt官方博客现已建立，欢迎参观！&lt;/p&gt;
+&lt;p&gt;相关GitHubRep：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/DirtyWorld-png/dirtyworld-png.github.io&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+</feed>
